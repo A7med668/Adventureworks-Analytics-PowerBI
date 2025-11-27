@@ -186,12 +186,12 @@ AdventureWorks-Analytics/
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="New folder (3)\Dash\Dashboard_1.png" alt="AdventureWorks Database Analysis Project" width="800"/>
+  <img src="Dash/Dashboard_1.png" alt="AdventureWorks Database Analysis Project" width="800"/>
 </p>
 
 ##
 <p align="center">
-  <img src="New folder (3)\Dash\Dashboard_2.png" alt="AdventureWorks Database Analysis Project" width="800"/>
+  <img src="Dash/Dashboard_2.png" alt="AdventureWorks Database Analysis Project" width="800"/>
 </p>
 
 
