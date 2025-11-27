@@ -3,7 +3,7 @@
 # 🚀 AdventureWorks Analytics Dashboard
 
 <p align="center">
-  <img src="Header.png" alt="AdventureWorks Database Analysis Project" width="800"/>
+  <img src="asset/Header.png" alt="AdventureWorks Database Analysis Project" width="800"/>
 </p>
 
 
