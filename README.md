@@ -183,17 +183,6 @@ AdventureWorks-Analytics/
 > **Top Products**: Mountain-200 series products consistently rank as top performers
 
 ---
-## 📊 Dashboard Preview
-
-<p align="center">
-  <img src="Dash/Dashboard_1.png" alt="AdventureWorks Database Analysis Project" width="800"/>
-</p>
-
-##
-<p align="center">
-  <img src="Dash/Dashboard_2.png" alt="AdventureWorks Database Analysis Project" width="800"/>
-</p>
-
 
 ## 🔧 Customization
 
