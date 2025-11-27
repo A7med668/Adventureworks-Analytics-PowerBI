@@ -36,7 +36,7 @@
 
 ### 📈 Core Metrics Dashboard
 
-![Dashboard Overview](./assets/dashboard_overview.png)
+![Dashboard Overview](Dash/Dashboard_1.png)
 
 **Live KPIs:**
 - 💰 **Total Due**: $123.22M
@@ -48,7 +48,7 @@
 
 ### 📊 Advanced Analytics
 
-![Advanced Analytics](./assets/advanced_analytics.png)
+![Advanced Analytics](Dash/Dashboard_2.png)
 
 **Analytical Capabilities:**
 - ✅ **Category Performance Analysis** - Track revenue by product categories (Bikes, Components, Clothing, Accessories)
